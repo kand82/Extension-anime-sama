@@ -1,3 +1,10 @@
 {
-  "url_actuelle": "https://anime-sama.eu/"
+  "url_actuelle": "https://anime-sama.fr",
+  "ads": [
+    {
+      "imageUrl": "https://www.instant-gaming.com/images/igr/igas-728x90.jpg",
+      "linkUrl": "https://www.instant-gaming.com/?igr=gamer-f016a3c",
+      "altText": "Jeux PC pas chers - Instant Gaming"
+    }
+  ]
 }
